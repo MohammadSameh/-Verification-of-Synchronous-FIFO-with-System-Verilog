@@ -49,8 +49,3 @@ The project includes the following components:
 This class-based verification setup offers a modular and flexible framework to thoroughly verify the FIFO design. It is structured to facilitate debugging and future improvements.
 
 ### This project is part of Eng. Kareem Waseem's diploma.
-
-## Contact Me!
-- **Email:** shehabeldeen2004@gmail.com
-- **LinkedIn:** [Shehab Eldeen](https://www.linkedin.com/in/shehabeldeen22)
-- **GitHub:** [Shehab's GitHub](https://github.com/shehab-25)
